@@ -1,0 +1,9 @@
+# IDE Configuration
+
+.idea/
+.vscode/
+*.iml
+
+# Python
+
+.venv/
